@@ -12,8 +12,7 @@ The model is designed to generate **simple children’s stories in German** with
 - **Context Length:** 256 tokens  
 - **Training Objective:** Next-token prediction (Causal LM)  
 - **Language:** German (`de`)  
-- **Dataset:** [fabi2347/TinyStoriesGerman](https://huggingface.co/datasets/fabi2347/TinyStoriesGerman)  
-- **License:** CDLA-Sharing-1.0  
+- **Dataset:** [fabi2347/TinyStoriesGerman](https://huggingface.co/datasets/fabi2347/TinyStoriesGerman)
 
 The model was built as a **tiny-scale experiment** to train a German LLaMA-like model for story generation tasks.
 
